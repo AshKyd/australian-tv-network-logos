@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.0"
+	width="128"
+	height="128">
+	<defs>
+		
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title>Plain SBS 2 Logo</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g transform="translate(3.9407044,5.1594425)" id="g3829">
+    <path d="m 50.289072,17.118585 c -4.944191,4.917333 -12.061111,12.397216 -21.635412,32.79999 2.73473,-8.754423 4.302128,-17.603196 4.081846,-26.0722 -3.453648,3.797543 -8.696927,9.54013 -14.326796,21.538597 1.996528,-6.392546 2.857938,-11.867624 2.726606,-18.069838 -2.652182,2.810414 -6.44084,6.092616 -10.954841,15.714313 1.238459,-3.966379 1.766661,-8.048037 1.855383,-11.971279 -3.6138722,3.125418 -13.3147122,13.143465 -13.6007802,30.976879 3.057382,-3.213803 5.921984,-6.975522 7.986226,-11.26138 C 3.1504518,60.885781 2.6914478,66.544284 2.7105268,70.408475 7.0409548,65.9664 11.130824,60.695819 14.036449,54.661905 9.9582194,67.272494 9.1364982,74.714069 9.0672436,79.846745 15.010281,73.809108 20.641427,66.62018 24.620219,58.356538 18.824284,76.280997 17.942859,86.429067 17.956963,93.350715 36.813952,73.550036 49.810954,47.196261 50.289072,17.118585 z M 14.714069,100.17531 c -0.406593,0.1415 -0.841018,0.2629 -1.306835,0.38722 l 1.258429,0 0.04841,-0.38722 z" id="path3005" style="fill:#0078ac;fill-opacity:1;stroke:none"/>
+    <g transform="matrix(1.1411209,0,0,1.1411209,-12.948801,-14.191185)" id="g3341" style="stroke:#0078ac;stroke-width:0.87633133;stroke-opacity:1">
+      <path d="m 54.275884,52.933301 16.483529,0" id="path2531" style="fill:none;stroke:#0078ac;stroke-width:0.87633133;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 62.055239,52.8789 0,20.618012" id="path2533" style="fill:none;stroke:#0078ac;stroke-width:0.87633133;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 70.487408,52.933301 6.473729,20.563611 6.147323,-20.50921 0.326407,0 6.582531,20.618012 6.201724,-20.781216" id="path2535" style="fill:none;stroke:#0078ac;stroke-width:0.87633133;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 117.54435,63.106306 c 0,6.568831 -4.24068,10.717015 -9.46579,10.717015 -5.22512,0 -9.465792,-4.039386 -9.465792,-10.717015 0,-6.732028 4.783422,-10.608213 9.465792,-10.608213 4.79021,0 9.46579,4.03758 9.46579,10.608213 z" id="path2537" style="fill:none;stroke:#0078ac;stroke-width:0.87633133;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"/>
+    </g>
+  </g>
+</svg>

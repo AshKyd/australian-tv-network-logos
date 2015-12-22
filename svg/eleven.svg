@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.0"
+	width="128"
+	height="128">
+	<defs>
+		
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title>Plain Eleven Logo</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g id="layer1">
+    <g transform="matrix(1.2727273,0,0,1.2727273,-267.12292,-279.72734)" id="layer1-0">
+      <g transform="translate(-61.2,-43.0128)" id="g2877">
+        <g transform="matrix(0.495,0,0,0.495,153.068,118.865)" id="g2886">
+          <path d="m 294,292.36218 92,0 c 29.916,0 54,24.084 54,54 l 0,92 c 0,29.916 -24.084,54 -54,54 l -92,0 c -29.916,0 -54,-24.084 -54,-54 l 0,-92 c 0,-29.916 24.084,-54 54,-54 z" id="rect2832" style="fill:#5a006d;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+          <path d="m 332,365.375 -44,25 c 0,0 0,41 0,41 0,12.2037 9.84974,22.09375 22,22.09375 12.15027,0 22,-9.89005 22,-22.09375 l 0,-66 z" id="path2834" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+          <path d="m 310,335.375 c -3.95946,0 -7.66539,1.03623 -10.875,2.875 l -20.21875,11.625 C 272.38572,353.70974 268,360.83144 268,368.96875 c 0,8.26131 4.31462,14.74083 11.00023,18.53215 L 332,357.86218 C 332,345.65849 322.15027,335.375 310,335.375 z" id="path2840" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+          <g transform="translate(-0.8,0)" id="g2869" style="fill:#ffffff;stroke:none">
+            <path d="m 404,365.375 -44,25 c 0,0 0,41 0,41 0,12.2037 9.84974,22.09375 22,22.09375 12.15027,0 22,-9.89005 22,-22.09375 l 0,-66 z" id="path2865" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+            <path d="m 382,335.375 c -3.95946,0 -7.66539,1.03623 -10.875,2.875 l -20.21875,11.625 C 344.38572,353.70974 340,360.83144 340,368.96875 c 0,8.26131 4.31462,14.74083 11.00023,18.53215 L 404,357.86218 C 404,345.65849 394.15027,335.375 382,335.375 z" id="path2867" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
